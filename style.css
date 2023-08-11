@@ -1,0 +1,25 @@
+#p1{
+	font-family: 'Lumanosimo';
+      font-weight:bold;
+    font-style: italic;
+	
+	
+	}
+#p2{
+font-family:'Lumanosimo'"Bricolage Grotesque";
+	font-style:normal;
+	font-size: 30px;
+	font-variant:small-caps;
+}
+#p3{
+	
+font-family:'Dancing Script', cursive;
+	font-weight:800;
+}
+#p4{
+	font:italic small-caps bold 16px/60px serif;
+}
+.fa-brands fa-facebook{
+	color:blue;
+	
+}
